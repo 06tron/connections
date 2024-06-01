@@ -1,1 +1,11 @@
+CREATE
+LAST|Len|"Philip D. Reid"
+LAST|Den|"botanist, Ph.D. University of Massachusetts 1970"
+LAST|P31|Q5
+LAST|P735|Q827311
+LAST|P734|Q23041455
+LAST|P569|"6 March 1937"
+LAST|P570|"4 March 2012"
+LAST|P106|Q2374149
+Q126176127|P767|LAST
 Q126176127|P767|Q113502420 /* the statement "George Fayen was associate professor of English at Smith College until 1976" from Patterns of Symmetry is consistent with an obituary matching George S. Fayen, Jr. */
